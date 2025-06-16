@@ -12,7 +12,7 @@ It enables patients to book appointments, doctors to manage their schedules, and
 - 📅 Book, Edit, Cancel Appointments
 - 👨‍⚕️ Doctor Profile Management
 - 📊 Admin Dashboard for User & Appointment Management
-- 🔔 Email Notifications (optional)
+- 🔔 Email Notifications (otp) for resetting password
 - 🌐 Responsive UI for all devices
 
 ---
